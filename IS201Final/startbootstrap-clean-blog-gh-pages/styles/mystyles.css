@@ -1,0 +1,42 @@
+/*Dallin McRae 4/16/22*/
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.fs{
+    font-size: 24px;
+}
+
+.bobjoe{
+    text-decoration: underline;
+    color: blue;
+    font-size: 17px;
+}
+
+.spaceface{
+    color:rgb(8, 19, 107);
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 150px;
+
+    }
+
+.crater{
+    margin-left: 350px;
+    font-size: 20px;
+
+}
+
+.chunktext{
+    margin-left: 120px;
+    margin-right:120px;
+    text-align: left;
+}
+
+.bbb{
+    color: rgb(28, 28, 147);
+    text-decoration: none;
+    border-bottom: rgb(28, 28, 147);
+}

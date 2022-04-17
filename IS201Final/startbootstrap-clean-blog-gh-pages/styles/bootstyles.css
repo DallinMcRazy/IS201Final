@@ -1,0 +1,50 @@
+/*Dallin McRae 4/16/22*/
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.fs{
+    font-size: 24px;
+}
+
+.bobjoe{
+    text-decoration: underline;
+    color: blue;
+    font-size: 17px;}
+
+.common {
+    background-color: rgba(50, 100, 23, 0.571);
+    border: solid 4px rgb(0, 0, 0);
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 150px;
+
+    }
+
+.mainbody {
+    margin-top: 5px;
+    background-color:#7e7b96b4
+}
+
+
+.footer {
+    bottom: 5px;
+    height: 14px;
+    left: 8px;
+    right: 8px;
+    text-align: center;
+    font-size: 12px;
+    position: fixed;
+
+}
+.cap{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: black;
+    }
